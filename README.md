@@ -1,8 +1,6 @@
 # Kohler Numi® 2.0
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vfuOqt70w54?si=CFKGdxlijUGPX7Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+[![Kohler Numi 2.0](https://img.youtube.com/vi/)](http://www.youtube.com/watch?v=vfuOqt70w54)
 
 ## Descripció
 
