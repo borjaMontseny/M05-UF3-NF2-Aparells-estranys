@@ -1,4 +1,4 @@
-# Kohler Numi® 2.0
+# Benvingut al futur del confort: Kohler Numi® 2.0
 
 <div align="center">
   <a href="http://www.youtube.com/watch?v=vfuOqt70w54" target="_blank">
@@ -6,28 +6,32 @@
   </a>
 </div>
 
-## Descripció
+## Un vàter intel·ligent per a una llar connectada
 
-El Kohler Numi® 2.0 és un vàter intel·ligent que s'integra a la llar connectada. Aquest vàter exclusiu té tantes funcions que necessites el mòbil per configurar-lo.
+El Kohler Numi® 2.0 no és només un vàter, és una experiència de luxe que redefineix el confort al teu bany. Amb el seu disseny exclusiu i les seves funcionalitats avançades, el Numi® 2.0 t'ofereix un control total a través del teu mòbil.
 
-## Característiques
+## Característiques que t'encantaran
 
-- **Il·luminació ambiental**: El Numi 2.0 integra un sistema d'il·luminació ambiental.
-- **Altaveus integrats**: Compta amb altaveus integrats.
-- **Seient amb calefacció**: El seient té calefacció amb obertura i tancament lliures de mans.
-- **Mode d'estalvi d'energia**: Inclou el mode d'estalvi d'energia per a l'eficiència energètica.
-- **Descàrrega d'emergència**: Admet fins a 100 descàrregues durant un tall d'energia amb una simple activació amb un botó tàctil[1].
-- **Funció d'autoneteja**: Utilitza llum ultraviolada i sistemes d'aigua electrolitzada per netejar automàticament les superfícies de la vareta.
-- **Sistema de secat per aire calent i desodorització automàtica**.
+- **Il·luminació ambiental**: Personalitza el teu ambient amb el sistema d'il·luminació integrat.
+- **Altaveus integrats**: Gaudeix de la teva música preferida amb els altaveus incorporats.
+- **Seient amb calefacció**: Experimenta el màxim confort amb el seient calefactat.
+- **Mode d'estalvi d'energia**: Estalvia energia amb el mode d'eficiència energètica.
+- **Descàrrega d'emergència**: Prepara't per a qualsevol eventualitat amb fins a 100 descàrregues durant un tall d'energia.
+- **Funció d'autoneteja**: Mantén el teu vàter impecable amb la funció d'autoneteja que utilitza llum ultraviolada i sistemes d'aigua electrolitzada.
+- **Sistema de sec per aire calent i desodorització automàtica**: Gaudeix d'un secat suau i una desodorització automàtica després de cada ús.
 
-## Control
+## Control total a les teves mans
 
-La integració a la llar connectada és possible gràcies a un control remot que serveix com a complement a l'aplicació KOHLER Konnect, que es pot instal·lar al mòbil per a un control avançat.
+Controla totes les funcions del Numi® 2.0 amb el control remot o a través de l'aplicació KOHLER Konnect al teu mòbil.
 
-## Preu i disponibilitat
+## ¿A punt per al luxe?
 
-El vàter connectat Numi 2.0 ja apareix a la web del fabricant, però això sí, tenir un aparell així no està a l'abast de tots, doncs per instal·lar-lo el preu no baixarà dels 8.200 dòlars.
+El vàter connectat Numi 2.0 ja està disponible a la web del fabricant. Prepara't per a una experiència de luxe al teu bany per només 8.200 dòlars.
 
-## Referències
+## Més informació
 
-Kohler Numi 2.0: preu, característiques i fitxa tècnica
+Per a més detalls sobre el preu, les característiques i la fitxa tècnica del Kohler Numi 2.0, visita Kohler Numi 2.0: preu, característiques i fitxa tècnica
+
+## Diagrams
+
+### Cas d'ús
