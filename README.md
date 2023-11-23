@@ -1,6 +1,10 @@
 # Kohler Numi® 2.0
 
-[![Kohler Numi 2.0](https://img.youtube.com/vi/)](http://www.youtube.com/watch?v=vfuOqt70w54)
+<div align="center">
+  <a href="http://www.youtube.com/watch?v=vfuOqt70w54" target="_blank">
+    <img src="img/imgKohler_Numi_2.0.jpg" alt="Kohler Numi 2.0" style="width: 600px; height: auto;">
+  </a>
+</div>
 
 ## Descripció
 
