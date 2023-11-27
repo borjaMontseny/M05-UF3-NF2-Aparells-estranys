@@ -30,8 +30,10 @@ El vàter connectat Numi 2.0 ja està disponible a la web del fabricant. Prepara
 
 ## Més informació
 
-Per a més detalls sobre el preu, les característiques i la fitxa tècnica del Kohler Numi 2.0, visita Kohler Numi 2.0: preu, característiques i fitxa tècnica
+Per a més detalls sobre el preu, les característiques i la fitxa tècnica del Kohler Numi 2.0, visita [Kohler Numi 2.0: preu, característiques i fitxa tècnica](http://www.youtube.com/watch?v=vfuOqt70w54)
 
 ## Diagrams
 
 ### Cas d'ús
+
+![Cas d'ús](img/Cas d'ús.png)
