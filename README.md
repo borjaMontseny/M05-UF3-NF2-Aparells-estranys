@@ -36,4 +36,4 @@ Per a més detalls sobre el preu, les característiques i la fitxa tècnica del 
 
 ### Cas d'ús
 
-![Cas d'ús](img/Cas d'ús.png)
+![Cas d'ús](diagrames/Cas%20d'ús.png)
