@@ -40,10 +40,8 @@ Per a més detalls sobre el preu, les característiques i la fitxa tècnica del 
   <img src="diagrames/casUs.jpg" alt="Diagrama de Cas d'ús">
 </div>
 
-```java
 Els casos d'ús inclouen Encendre el vàter, Configurar diferents preferències com Il·luminacio, Temperatura del seient i Musica. Un cop configurat, l’Usuari pot Utilitzar el vater, durant el qual pot Activar funcio de neteja UV i Activar funcio de bidet.
 Després de l’ús, l’Usuari pot Finalitzar us i finalment Apagar el vàter.
-```
 
 ### D'activitat
 
@@ -51,11 +49,9 @@ Després de l’ús, l’Usuari pot Finalitzar us i finalment Apagar el vàter.
   <img src="diagrames/activitat.png" alt="Diagrama d'Activitat">
 </div>
 
-```java
 En el primer flux, el vàter s’encén, s’inicia i es configuren les preferències.
 En el segon flux, es comença a utilitzar el vàter, s’activa la funció de neteja UV i la funció de bidet (Activar funció de bidet).
 Després d’aquests fluxos, els camins es reuneixen en la línea vertical en negrta, i el vàter finalitza l’ús i s’apaga, la qual cosa porta al final del diagrama.
-```
 
 ### D'estats
 
@@ -63,9 +59,7 @@ Després d’aquests fluxos, els camins es reuneixen en la línea vertical en ne
   <img src="diagrames/estats.png" alt="Diagrama d'Estat">
 </div>
 
-```java
 El diagrama comença amb l’estat inicial, que es mou a l’estat Encès quan s’encén el vàter.
 Després passa a l’estat Inicialització i després a Configuració Preferències, on es poden ajustar diferents preferències com Il·luminació, Temperatura del seient i Música.
 Un cop configurades les preferències, es passa a l’estat Ús Vàter, on es poden activar funcions com Neteja UV i Bidet.
 Després de l’ús, es passa a l’estat Finalitzar i finalment a Apagat quan s’apaga el vàter.
-```
