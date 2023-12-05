@@ -32,12 +32,16 @@ El vàter connectat Numi 2.0 ja està disponible a la web del fabricant. Prepara
 
 Per a més detalls sobre el preu, les característiques i la fitxa tècnica del Kohler Numi 2.0, visita l'article a la [web oficial de Kohler](https://www.kohler.com/en/products/toilets/shop-toilets/numi-2-0-one-piece-elongated-smart-toilet-dual-flush-30754-pa)
 
-## Diagrams
+## Diagrames:
 
 ### Cas d'ús
 
 <div align="center">
-  <img src="diagrames/Cas%20d'ús.png" alt="Cas d'ús">
+  <img src="casUs.png" alt="Cas d'ús">
 </div>
 
-### 
+### D'activitat
+
+<div align="center">
+  <img src="activitat.png" alt="Activitat">
+</div>
