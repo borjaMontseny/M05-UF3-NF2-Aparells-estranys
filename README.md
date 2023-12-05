@@ -37,11 +37,17 @@ Per a més detalls sobre el preu, les característiques i la fitxa tècnica del 
 ### Cas d'ús
 
 <div align="center">
-  <img src="diagrames/casUs.png" alt="Cas d'ús">
+  <img src="diagrames/casUs.jpg" alt="Diagrama de Cas d'ús">
 </div>
 
 ### D'activitat
 
 <div align="center">
-  <img src="diagrames/activitat.png" alt="Activitat">
+  <img src="diagrames/activitat.png" alt="Diagrama d'Activitat">
+</div>
+
+### D'estats
+
+<div align="center">
+  <img src="diagrames/estats.png" alt="Diagrama d'Estat">
 </div>
